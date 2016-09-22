@@ -18,6 +18,7 @@ package readfile;
 		FileReader in;
 		BufferedReader readFile;
 		String line;
+                int rektgae = 999;
 		
 		try {
 		      in = new FileReader(textFile);
