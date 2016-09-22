@@ -18,7 +18,7 @@ package readfile;
 		FileReader in;
 		BufferedReader readFile;
 		String line;
-                int rektgae = 999;
+                int powerLevel = 9001;
 		
 		try {
 		      in = new FileReader(textFile);
