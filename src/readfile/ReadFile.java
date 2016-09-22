@@ -19,6 +19,7 @@ package readfile;
 		BufferedReader readFile;
 		String line;
                 int powerLevel = 9001;
+                int kaunLevel = 9000;
 		
 		try {
 		      in = new FileReader(textFile);
